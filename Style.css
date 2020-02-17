@@ -1,0 +1,57 @@
+ #Boom {
+ width: 250px;
+ height: 255px;
+ float: right;
+}
+ #hoot {
+  color: #1900ff;
+  float: right;
+  text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+  font-style: oblique;
+ }
+ #banana {
+  color: #eeff00;
+  float:left;
+  font-style:italic;
+ }
+ #Brown {
+  background-color: #0341fc;
+  width:576px;
+  float:left;
+  font-size:25px;
+  Font-style:italic;
+  border: 6px double #00A481;
+   }
+ #Brown:hover {
+  background-color:#02f042;
+ }
+ #ban: {
+  color:#00ff95;
+  float:left;
+  font-style:italic;
+ }
+ #ban:hover {
+ color:#00ff08;
+ }
+ #DNDintro {
+  color:#0a0a0a; 
+  background-color:#14f71f;
+ }
+ body{
+  background-color:#ffffff;
+  border: 5px outset #FF0000;
+ }
+ #navbar {
+
+  background-color:#000000;
+ }
+ #barboi    {
+  color:#ffffff;
+ }
+ #video {
+ height:254px;
+ }
+ #oneofus {
+  color:#e61410;
+ 
+ }
