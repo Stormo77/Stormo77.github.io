@@ -15,15 +15,15 @@
   font-style:italic;
  }
  #Brown {
-  background-color: #0341fc;
+  background-color: #f2ff5e;
   width:576px;
   float:left;
   font-size:25px;
   Font-style:italic;
-  border: 6px double #00A481;
+  border: 6px double #ff3c00;
    }
  #Brown:hover {
-  background-color:#02f042;
+  background-color:#b30f00;
  }
  #ban: {
   color:#00ff95;
@@ -34,8 +34,8 @@
  color:#00ff08;
  }
  #DNDintro {
-  color:#0a0a0a; 
-  background-color:#14f71f;
+  color:#000000; 
+  background-color:#f2ff5e;
  }
  body{
   background-color:#ffffff;
@@ -56,5 +56,5 @@
  }
  #Contact {
  color:#000000;
- Background-color:#33ff00;
+ Background-color:#f2ff5e;
  }
