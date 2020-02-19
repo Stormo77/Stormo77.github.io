@@ -42,8 +42,7 @@
   border: 5px outset #FF0000;
  }
  #navbar {
-
-  background-color:#000000;
+ background-color:#000000;
  }
  #barboi    {
   color:#ffffff;
@@ -54,4 +53,8 @@
  #oneofus {
   color:#e61410;
  
+ }
+ #Contact {
+ color:#000000;
+ Background-color:#33ff00;
  }
