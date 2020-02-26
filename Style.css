@@ -16,11 +16,11 @@
  }
  #Brown {
   background-color: #f2ff5e;
-  width:576px;
+  width:100%;
   float:left;
   font-size:25px;
   Font-style:italic;
-  border: 6px double #ff3c00;
+  border: 6px double #ff3c00 width:100%;
    }
  #Brown:hover {
   background-color:#b30f00;
