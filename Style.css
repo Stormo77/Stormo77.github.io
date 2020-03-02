@@ -1,60 +1,59 @@
  #Boom {
- width: 250px;
- height: 255px;
- float: right;
-}
+ 	width: 250px;
+ 	height: 255px;
+ 	float: right;
+ }
  #hoot {
-  color: #1900ff;
-  float: right;
-  text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
-  font-style: oblique;
+ 	color: #1900ff;
+ 	float: right;
+ 	text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+ 	font-style: oblique;
  }
  #banana {
-  color: #eeff00;
-  float:left;
-  font-style:italic;
+ 	color: #eeff00;
+ 	float: left;
+ 	font-style: italic;
  }
  #Brown {
-  background-color: #f2ff5e;
-  width:100%;
-  float:left;
-  font-size:25px;
-  Font-style:italic;
-  border: 6px double #ff3c00 width:100%;
-   }
+ 	background-color: #f2ff5e;
+ 	width: 100%;
+ 	float: left;
+ 	font-size: 25px;
+ 	Font-style: italic;
+ 	border: 6px double #ff3c00 width:100%;
+ }
  #Brown:hover {
-  background-color:#b30f00;
+ 	background-color: #b30f00;
  }
  #ban: {
-  color:#00ff95;
-  float:left;
-  font-style:italic;
+ 	color: #00ff95;
+ 	float: left;
+ 	font-style: italic;
  }
  #ban:hover {
- color:#00ff08;
+ 	color: #00ff08;
  }
  #DND {
-  color:#000000; 
-  background-color:#f2ff5e;
+ 	color: #000000;
+ 	background-color: #f2ff5e;
  }
- body{
-  background-color:#ffffff;
-  border: 5px outset #FF0000;
+ body {
+ 	background-color: #ffffff;
+ 	border: 5px outset #FF0000;
  }
  #navbar {
- background-color:#000000;
+ 	background-color: #000000;
  }
- #barboi    {
-  color:#ffffff;
+ #barboi {
+ 	color: #ffffff;
  }
  #video {
- height:254px;
+ 	height: 254px;
  }
  #oneofus {
-  color:#e61410;
- 
+ 	color: #e61410;
  }
  #Contact {
- color:#000000;
- Background-color:#f2ff5e;
+ 	color: #000000;
+ 	Background-color: #f2ff5e;
  }
