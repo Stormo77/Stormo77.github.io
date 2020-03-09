@@ -1,59 +1,67 @@
- #Boom {
+ #Meme1 {
  	width: 250px;
  	height: 255px;
- 	float: right;
+ 	float: right; /*meme1 */
  }
- #hoot {
+ #bottomtext {
  	color: #1900ff;
- 	float: right;
  	text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
- 	font-style: oblique;
+ 	font-style: oblique; /*bottomtext */
  }
  #banana {
  	color: #eeff00;
  	float: left;
- 	font-style: italic;
+ 	font-style: italic; /* */
  }
- #Brown {
+ #Intro1 {
  	background-color: #f2ff5e;
  	width: 100%;
  	float: left;
  	font-size: 25px;
  	Font-style: italic;
- 	border: 6px double #ff3c00 width:100%;
+ 	border: 6px double #ff3c00 width:100%; /* main text*/
  }
- #Brown:hover {
- 	background-color: #b30f00;
+ #Intro1:hover {
+ 	background-color: #b30f00; /*maintext hover */
  }
  #ban: {
  	color: #00ff95;
  	float: left;
- 	font-style: italic;
+ 	font-style: italic; /* */
  }
  #ban:hover {
- 	color: #00ff08;
+ 	color: #00ff08; /* */
  }
  #DND {
  	color: #000000;
- 	background-color: #f2ff5e;
+ 	background-color: #f2ff5e; 
+ 	width:100%;
+ 	height:100%; /* */
  }
  body {
  	background-color: #ffffff;
  	border: 5px outset #FF0000;
+ 	width:100%;
+ 	Height:100%; /* */
  }
  #navbar {
  	background-color: #000000;
- }
+ 	width:100%;
+ 	height:100%; /* */
+ } 
  #barboi {
- 	color: #ffffff;
+ 	color: #ffffff; /* */
  }
  #video {
- 	height: 254px;
+ 	height: 254px; /*height of Nobody expects...*/
  }
  #oneofus {
- 	color: #e61410;
+ 	color: #e61410; /*You are being conscripted, color*/
  }
  #Contact {
  	color: #000000;
- 	Background-color: #f2ff5e;
+ 	Background-color: #f2ff5e; /*color for Contact information */
+ }
+ #feedback {
+   color:#f2ff5e; /*color for give feedback */
  }
