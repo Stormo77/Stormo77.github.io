@@ -33,16 +33,19 @@
  	color: #00ff08; /* */
  }
  #DND {
+  float:left;
  	color: #000000;
  	background-color: #f2ff5e; 
  	width:100%;
  	height:100%; /* */
  }
  body {
+  float:left;
  	background-color: #ffffff;
  	border: 5px outset #FF0000;
  	width:100%;
  	Height:100%; /* */
+ 	box-sizing:border-box;
  }
  #navbar {
  	background-color: #000000;
@@ -58,10 +61,13 @@
  #oneofus {
  	color: #e61410; /*You are being conscripted, color*/
  }
- #Contact {
+ #Contact { /*color for Contact */
+  float:left;
  	color: #000000;
- 	Background-color: #f2ff5e; /*color for Contact information */
+ 	Background-color: #f2ff5e; 
+ 	width:100%;
+ 	height:100%;
  }
- #feedback {
-   color:#f2ff5e; /*color for give feedback */
+ #test {
+  Background-color:#f2ff5e; 
  }
