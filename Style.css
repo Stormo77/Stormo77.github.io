@@ -46,6 +46,7 @@
  	width:100%;
  	Height:100%; /* */
  	box-sizing:border-box;
+ 	margin:0;
  }
  #navbar {
  	background-color: #000000;
@@ -71,3 +72,25 @@
  #test {
   Background-color:#f2ff5e; 
  }
+ #container {
+  display: flex;
+  width:100%;
+  height:100%;
+  justify-content:space-around;
+ 
+}
+ #Classes2 {
+  float:left;
+   width:30%;
+   height:30%;
+ }
+  #Classes3 {
+  float:right;
+   width:36%;
+   height:36%;
+  }
+  #Races2 {
+    float:right;
+    width:30%;
+    height:30%;
+  }
